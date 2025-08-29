@@ -1,4 +1,4 @@
-# Tableau Dashboard HR Dashboard [Dashboard_Link](https://public.tableau.com/views/HR_dashboard_17542503525620/HRSummary?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+# Tableau HR Dashboard [Dashboard_Link](https://public.tableau.com/views/HR_dashboard_17542503525620/HRSummary?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 # 🚀 Project Goal
 

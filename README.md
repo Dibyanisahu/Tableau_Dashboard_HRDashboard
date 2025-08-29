@@ -54,15 +54,15 @@ Relationship between performance ratings and attrition
 
 # 🔍 Insights & Results
 
-Attrition Hotspots: Higher attrition observed in certain job roles and departments with lower average salaries.
+1. Attrition Hotspots: Higher attrition observed in certain job roles and departments with lower average salaries.
 
-Demographic Patterns: Mid-career employees (30–40 years) show higher turnover compared to other groups.
+2. Demographic Patterns: Mid-career employees (30–40 years) show higher turnover compared to other groups.
 
-Salary & Retention: Lower salary bands correlate with higher attrition, indicating compensation is a major factor.
+3. Salary & Retention: Lower salary bands correlate with higher attrition, indicating compensation is a major factor.
 
-Job Satisfaction Impact: Employees with low satisfaction scores are more likely to leave.
+4. Job Satisfaction Impact: Employees with low satisfaction scores are more likely to leave.
 
-Workforce Structure: Balanced gender distribution, but some departments skew male-dominated.
+5. Workforce Structure: Balanced gender distribution, but some departments skew male-dominated.
 
 # ✅ Business Impact
 

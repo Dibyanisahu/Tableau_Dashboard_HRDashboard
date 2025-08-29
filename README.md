@@ -31,25 +31,25 @@ Excel / CSV – as the primary data source
 
 #### 1. Summary KPIs: 
 
-Total Employees
-Attrition Count & Rate
-Average Age
+Total Employees,
+Attrition Count & Rate,
+Average Age,
 Average Salary
 
 #### 2.Demographic Distribution
-Gender ratio across employees
-Age group distribution
+Gender ratio across employees,
+Age group distribution,
 Education background
 
 #### 3.Attrition Analysis
 
-Attrition by Job Role, Department, and Gender
-Attrition by Salary Range
+Attrition by Job Role, Department, and Gender;
+Attrition by Salary Range;
 Attrition by Years at Company
 
 #### 4.Performance & Satisfaction Trends
 
-Job satisfaction ratings by department
+Job satisfaction ratings by department;
 Relationship between performance ratings and attrition
 
 # 🔍 Insights & Results
